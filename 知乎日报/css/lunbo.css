@@ -1,0 +1,44 @@
+
+
+.my-swipe .van-swipe-item {
+    width: 100%;
+    height: 270px;
+    
+}
+.my-swipe .van-swipe-item h2{
+  
+    color: rgb(255, 255, 255);
+    
+    position: absolute;
+    bottom: 60px;
+    left: 6%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    
+}
+.my-swipe .van-swipe-item h6{
+    color: rgb(175, 173, 173);
+    position: absolute;
+    bottom: 28px;
+    left: 6%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    
+}
+.van-swipe__indicators {
+    position: absolute;
+    bottom: 14px;
+    left: 96%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+
+}
+.my-swipe .van-swipe-item img{
+    width: 100%;
+    height: 100%;
+}

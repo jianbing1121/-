@@ -1,0 +1,45 @@
+.toubu ul {
+    display: flex;
+    height: 58px;
+    justify-content: space-between;
+}
+
+.toubu ul .sj {
+    font-family: "黑体";
+
+    width: 40px;
+    height: 40px;
+    margin: 4px 0 0 7px;
+    padding-left: 25px;
+}
+
+.toubu ul .sj .one {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.toubu ul .sj .two {
+    font-size: 1000;
+    font-weight: 800;
+}
+
+.toubu ul li h2 {
+    margin: 10px;
+    height: 35px;
+    width: 160px;
+    padding-left: 20px;
+    border-left: 2px solid rgb(177, 173, 173);
+    margin: 8px 0 0 -60px;
+}
+
+.toubu ul li {
+    margin-left: 10%;
+}
+
+.toubu ul li img {
+    width: 40px;
+    height: auto;
+    border-radius: 50%;
+    margin-left: -40%;
+    margin-top: 23%;
+}

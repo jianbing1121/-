@@ -1,0 +1,158 @@
+.big-long .left img {
+    width: 40px;
+    height: auto;
+    border-radius: 50%;
+    margin-left: -40%;
+    margin-top: 23%;
+}
+
+.big-long {
+    display: flex;
+    justify-content: space-between;
+}
+
+.big-long .right img {
+    width: 40px;
+    border-radius: 50%;
+    /* height: auto;
+    margin-left: -40%;
+    margin-top: 23%; */
+}
+
+.big-long .right h3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.big-long .center {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 60px;
+    margin: 20px;
+}
+
+.big-long .center img {
+    width: 40px;
+    /* border-radius: 50%; */
+    /* margin-left: -40%; */
+
+}
+
+.big-long .center .gongneng {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* height: 40px; */
+}
+
+
+
+
+
+
+
+
+
+.big-short .left img {
+    width: 40px;
+    height: auto;
+    border-radius: 50%;
+    margin-left: -40%;
+    margin-top: 23%;
+}
+
+.big-short {
+    display: flex;
+    justify-content: space-between;
+}
+
+.big-short .right img {
+    width: 40px;
+    border-radius: 50%;
+    /* height: auto;
+    margin-left: -40%;
+    margin-top: 23%; */
+}
+
+.big-short .right h3 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.big-short .center {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 60px;
+    margin: 20px;
+}
+
+.big-short .center img {
+    width: 40px;
+    /* border-radius: 50%; */
+    /* margin-left: -40%; */
+
+}
+
+.big-short .center .gongneng {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* height: 40px; */
+}
+
+
+
+
+.tou {
+    height: 60px;
+    display: flex;
+    justify-content: space-around;
+    right: 0;
+    left: 0;
+    top: 0px;
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+}
+
+.tou img {
+    width: 40px;
+    height: auto;
+    border-radius: 50%;
+    margin-left: -40%;
+    margin-top: 23%;
+}
+
+
+
+
+footer {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    left: 0px;
+    height: 50px;
+    background: #fff;
+    width: 100%;
+    z-index: 1000;
+}
+
+footer input {
+    font-size: 20px;
+    border-style: none;
+    border-bottom: 1px solid black;
+}
+
+footer .fabu img {
+    width: 40px;
+    height: auto;
+    border-radius: 50%;
+    margin-left: 0;
+    margin-top: 0;
+}
+
+

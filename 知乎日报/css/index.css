@@ -1,0 +1,9 @@
+@import "./toubu.css";
+@import "./lunbo.css";
+@import "./title-list.css";
+@import"./pinglun-tou.css";
+* {
+    margin: 0px;
+    padding: 0px;
+}
+

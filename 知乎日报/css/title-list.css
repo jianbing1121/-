@@ -1,0 +1,48 @@
+
+.title {
+    width: 100%;
+    height: auto;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.title ul {
+    margin-bottom: 60px;
+}
+
+.title ul li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 28px;
+    margin-top: 3px;
+    width: 53%;
+}
+
+.title ul li .left {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+
+}
+
+.title ul li .left span {
+    font-family: "黑体";
+    font-size: 1000;
+
+    color: rgb(123, 122, 122);
+}
+
+.title ul li img {
+    width: 80px;
+    height: 80px;
+    margin: -21px;
+    padding-top: 35px;
+    border-radius: 5%;
+}
+.title ul li .left h3{
+ 
+    width: 80%
+
+}
